@@ -1,4 +1,4 @@
----comment goes here?
+---
 
   - name: Provision Vagrant
     hosts: all
